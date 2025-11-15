@@ -10,4 +10,17 @@ The goal of this analysis is to:
 •	Provide a strategy for deployment and ongoing monitoring of the chosen model
 This project demonstrates core concepts in data preprocessing, unsupervised learning, cluster evaluation, dimensionality reduction, model interpretation, and practical real-world deployment considerations.
 
+
+Run in Google Colab
+1.	Open the notebook directly in Google Colab using the link provided in the repository.
+2.	Ensure the Colab runtime is set to:
+	Python 3
+CPU runtime (GPU is not required)
+3.	Run the notebook cell by cell from top to bottom:
+All required libraries (NumPy, Pandas, scikit-learn, Matplotlib) are standard in Colab.
+4.	No additional data download is required:
+The California Housing dataset is automatically loaded using fetch_california_housing().
+
+
+
  
